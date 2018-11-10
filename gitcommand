@@ -1,0 +1,1 @@
+ssh-agent bash -c 'ssh-add ~/.ssh/github; git clone git@github.com:kanhaiyam/php_qrcode_generator.git'
